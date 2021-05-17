@@ -1,0 +1,10 @@
+.profit_sub {
+    float: left;
+    display: inline-block;
+    width: 140px !important;;
+    text-align: center;
+}
+
+#box-input-sms{
+    display:none;
+}
